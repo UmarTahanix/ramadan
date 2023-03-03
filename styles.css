@@ -1,0 +1,18 @@
+body
+{
+    background-image: url(ramadan.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-position-y: top;
+}
+
+
+h1
+{
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+}
